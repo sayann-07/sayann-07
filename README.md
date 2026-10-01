@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayan Sekh</h1>
  
 
-- 🔭 I’m currently working on [AEGIS](https://github.com/Light172006/AEGIS-Autonomous-Enterprise-Governance-Intelligence-System)
-
 - 🌱 I’m currently learning **AI/ML . DSA . WEB DEV .**
 
 - 👨‍💻 All of my projects are available at [https://sayanz.in/](https://sayanz.in/)

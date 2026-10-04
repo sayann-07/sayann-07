@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayan Sekh</h1>
+<h1 align="center">Hi 👋, I'm Sayan</h1>
  
 
 - 🌱 I’m currently learning **AI/ML . DSA . WEB DEV .**

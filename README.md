@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML . DSA . WEB DEV .**
 
-- 👨‍💻 All of my projects are available at [https://sayanz.in/](https://sayanz.in/)
+
 
 - 📫 How to reach me **sekhs1243@gmail.com**
 

@@ -8,8 +8,10 @@ Building things with code, exploring AI, and turning ideas into reality.
 
 📍 Kolkata, India | 🎓 Adamas University
 
-</div>
-<div>
+<div allign="left">
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sa.yannn___?bqrl=OTQwbWlwaGxub2Fw&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sayan-sekh-sz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sekhs1243@gmail.com) 
 </div>
@@ -23,4 +25,4 @@ Building things with code, exploring AI, and turning ideas into reality.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+

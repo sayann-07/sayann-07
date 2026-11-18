@@ -1,30 +1,34 @@
 <div align="center">
 
-𝗦𝗔𝗬𝗔𝗡 𝗦𝗘𝗞𝗛
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:334155,100:94A3B8&text=SAYAN%20SEKH&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20AI%20%26%20ML&descSize=17&descAlignY=60" />
 
-Computer Science Engineer | AI & ML Enthusiast
+𝚂𝙰𝚈𝙰𝙽 𝚂𝙴𝙺𝙷
 
-Building things with code, exploring AI, and turning ideas into reality.
+Computer Science Engineering Student | AI & ML Enthusiast
 
-📍 Kolkata, India | 🎓 Adamas University
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Building+ideas+into+reality.;Exploring+Artificial+Intelligence.;Developing+modern+web+applications.;Always+learning.+Always+building." alt="Typing SVG" />
+
+<br/>
+
+📍 Kolkata, India · 🎓 Adamas University
 
 </div>
 
-✦ About Me
+About Me
 
-Hey! I'm Sayan Sekh, a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Adamas University, India.
+Hey! I'm Sayan Sekh, a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Adamas University.
 
-I'm passionate about software development, AI-powered applications, and building practical solutions to real-world problems.
+I'm interested in building technology that solves real-world problems, from modern web applications to AI-powered solutions.
 
-💻 Exploring Full-Stack Development
+💻 Full-Stack Web Development
 
-🤖 Learning Artificial Intelligence & Machine Learning
+🤖 Artificial Intelligence & Machine Learning
 
-🧠 Interested in Deep Learning and Computer Vision
+🧠 Deep Learning & Computer Vision
 
-🚀 Building projects and experimenting with new technologies
+🚀 Building projects and experimenting with emerging technologies
 
-🎯 Always learning, building, and improving.
+📚 Constantly learning and improving my skills
 
 
 ## 🌐 Socials:

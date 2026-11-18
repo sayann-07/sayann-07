@@ -1,3 +1,14 @@
+<div align="center">
+
+𝗦𝗔𝗬𝗔𝗡 𝗦𝗘𝗞𝗛
+
+Computer Science Engineer | AI & ML Enthusiast
+
+Building things with code, exploring AI, and turning ideas into reality.
+
+📍 Kolkata, India | 🎓 Adamas University
+
+</div>
 # 💫 About Me:
 Hey, I'm Sayan Sekh! 👋<br><br>I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Adamas University, India.
 

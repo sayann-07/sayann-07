@@ -8,6 +8,7 @@ Building things with code, exploring AI, and turning ideas into reality.
 
 📍 Kolkata, India | 🎓 Adamas University
 
+<h1>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sa.yannn___?bqrl=OTQwbWlwaGxub2Fw&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sayan-sekh-sz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sekhs1243@gmail.com) 
@@ -19,13 +20,7 @@ Building things with code, exploring AI, and turning ideas into reality.
 ![](https://streak-stats.demolab.com/?user=sayann-07&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sayann-07&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sayann-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=sayann-07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</h1>

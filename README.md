@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:334155,100:94A3B8&text=SAYAN%20SEKH&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20AI%20%26%20ML&descSize=17&descAlignY=60" />
 
 𝚂𝙰𝚈𝙰𝙽 𝚂𝙴𝙺𝙷
 
@@ -14,10 +13,9 @@ Computer Science Engineering Student | AI & ML Enthusiast
 
 </div>
 
-About Me
+# 💫 About Me:
 
-Hey! I'm Sayan Sekh, a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Adamas University.
-
+Hey! I'm Sayan,
 I'm interested in building technology that solves real-world problems, from modern web applications to AI-powered solutions.
 
 💻 Full-Stack Web Development
